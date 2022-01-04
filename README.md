@@ -8,6 +8,9 @@
 ## Extended Z
 This is a fork of https://github.com/josephclarke333/Marlin-EasythreedK1 to add support for an extended Z axis from 100mm to 200mm for reference on features, help installing and compiling see the original repository https://github.com/josephclarke333/Marlin-EasythreedK1
 
+## Installing
+Refer to https://github.com/josephclarke333/Marlin-EasythreedK1 for instructions and check the releases from this repository for the later firmware.hex file
+
 ## Disclaimer
 I am NOT a programmer, nor am I a 3D printer expert; just an enthusiast who likes to work with code and 3D printers.
 **You are downloading, compiling, installing and using this firmware at your own risk and I take no responsibility to any damage caused to you, your printer or any other person/item as a result of this firmwarea**
